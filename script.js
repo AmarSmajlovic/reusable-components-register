@@ -85,20 +85,17 @@ class RegisterFormSecond extends HTMLElement{
            </div>
            <div class="input-form default">
            <input type="text" class="input" id="number">
-           </select>
            <label  for="number">Number</label>
            </div>
            </div>
            <div class="input-form default">
            <input type="text" class="input" id="id-card">
-           </select>
            <label  for="id-card">Personal ID Card</label>
            </div>
         </div>
         <div class="form">
         <div class="input-form default">
         <input type="text" class="input" id="id-card">
-        </select>
         <label  for="id-card">Date of birth</label>
         </div>
         <div class="container-radio">
@@ -117,17 +114,14 @@ class RegisterFormSecond extends HTMLElement{
       </div>
       <div class="input-form default">
       <input type="text" class="input" id="phone-number">
-      </select>
       <label  for="phone-numer">Phone Number</label>
       </div>
       <div class="input-form default">
       <input type="text" class="input" id="account-number">
-      </select>
       <label  for="account-numer">Account Number</label>
       </div>
       <div class="input-form default">
       <input type="text" class="input" id="account-number">
-      </select>
       <label  for="account-numer">Account Number</label>
       </div>
       <button class="btn medium" id="register-btn">REGISTER</button>
